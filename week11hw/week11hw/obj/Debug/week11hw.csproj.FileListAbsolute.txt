@@ -1,0 +1,7 @@
+C:\Users\muham\OneDrive\Masaüstü\vicual codes\week11\week11hw\week11hw\bin\Debug\week11hw.exe.config
+C:\Users\muham\OneDrive\Masaüstü\vicual codes\week11\week11hw\week11hw\bin\Debug\week11hw.exe
+C:\Users\muham\OneDrive\Masaüstü\vicual codes\week11\week11hw\week11hw\bin\Debug\week11hw.pdb
+C:\Users\muham\OneDrive\Masaüstü\vicual codes\week11\week11hw\week11hw\obj\Debug\week11hw.csproj.AssemblyReference.cache
+C:\Users\muham\OneDrive\Masaüstü\vicual codes\week11\week11hw\week11hw\obj\Debug\week11hw.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Masaüstü\vicual codes\week11\week11hw\week11hw\obj\Debug\week11hw.exe
+C:\Users\muham\OneDrive\Masaüstü\vicual codes\week11\week11hw\week11hw\obj\Debug\week11hw.pdb
