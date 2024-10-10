@@ -1,0 +1,7 @@
+C:\Users\muham\OneDrive\Masaüstü\vicual codes\id\gettinİD\gettinİD\bin\Debug\gettinİD.exe.config
+C:\Users\muham\OneDrive\Masaüstü\vicual codes\id\gettinİD\gettinİD\bin\Debug\gettinİD.exe
+C:\Users\muham\OneDrive\Masaüstü\vicual codes\id\gettinİD\gettinİD\bin\Debug\gettinİD.pdb
+C:\Users\muham\OneDrive\Masaüstü\vicual codes\id\gettinİD\gettinİD\obj\Debug\gettinİD.csproj.AssemblyReference.cache
+C:\Users\muham\OneDrive\Masaüstü\vicual codes\id\gettinİD\gettinİD\obj\Debug\gettinİD.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Masaüstü\vicual codes\id\gettinİD\gettinİD\obj\Debug\gettinİD.exe
+C:\Users\muham\OneDrive\Masaüstü\vicual codes\id\gettinİD\gettinİD\obj\Debug\gettinİD.pdb
